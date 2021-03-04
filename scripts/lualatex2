@@ -7,7 +7,7 @@ function error(){
 }
 function ayuda(){
 	echo2 "lualatex2"
-	echo2 "Script para compilar a PDF un archivo .tex"
+	echo2 "Script de Deiff .tex"
 	echo2 "Uso:"
 	echo2 "lualatex2 [-opciones] archivo.tex"
 	echo2 "Opciones:"
